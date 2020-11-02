@@ -1,0 +1,18 @@
+{
+    "en": {
+        "title": "Currently developing... | Marcus Fredriksson",
+        "description": "Hi, I am Marcus, and I am a developer and designer. I do mostly freelance work, but also larger project.",
+        "h2": "Development in prograss.",
+        "release": "Available November 31st, 2020.",
+        "notification": "Click here for status updates!",
+        "animation": "Creator of the animation"
+    },
+    "sv": {
+        "title": "Utveckling pågår... | Marcus Fredriksson",
+        "description": "Hej, jag heter Marcus, och jag är en utvecklare och designer. För det mesta gör jag frilans-arbete, men även större projekt.",
+        "h2": "Håller på att utvecklas.",
+        "release": "Tillgänglig den 31 November, 2020.",
+        "notification": "Klicka här för status-uppdateringar!",
+        "animation": "Skaparen av animationen"
+    }
+}
