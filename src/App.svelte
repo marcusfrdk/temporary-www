@@ -4,7 +4,6 @@
 	import * as translations from './translations.json';	
 	import Notification from './Notification.svelte';
 	export let lang:string;
-	export let theme:string;
 
 	// Set app lang
 	if (/^sv\b/.test(navigator.language)){
@@ -46,7 +45,7 @@
 		align-items: center;
 		justify-content: center;
 		position: fixed;
-		top: 50%;
+		top: 47.5%;
 		left: 50%;
 		transform: translate(-50%, -50%);
 		width: 90vw;
