@@ -16,6 +16,7 @@
 	// Modify document
 	document.documentElement.lang = lang;
 	document.title = translations[lang].title;
+	document.querySelector('meta[name=description]').setAttribute('content', translations[lang].description);
 </script>
 
 <Notification lang={lang}/>
