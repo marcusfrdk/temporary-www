@@ -6,8 +6,6 @@
     import * as programmer from './programming.json';
     import * as test from './test.json';
     import * as phone from './phone.json';
-
-    console.log(window.location)
 </script>
 
 <div>
@@ -76,6 +74,7 @@
         font-size: 1.125rem;
         cursor: pointer;
         transition: background-color 128ms ease;
+        margin-top: 2rem;
         margin-bottom: 2rem;
         user-select: none;
         width: fit-content;
