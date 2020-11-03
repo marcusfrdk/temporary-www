@@ -43,7 +43,7 @@
     }
 
     #title-introduction {
-        margin-bottom: 2rem;
+        margin-bottom: 4rem;
         text-align: center;
     }
 
@@ -57,7 +57,8 @@
 		position: relative;
 		color: var(--muted);
 		font-size: .675rem;
-        margin-bottom: 2rem;
+        margin-bottom: 6rem;
+        transition: color 128ms ease;
 	}
 
 	#author-of-animation:hover {

@@ -46,7 +46,7 @@
 
     .text h2 {
         font-size: 1.75rem;
-        margin-bottom: .5rem;
+        margin-bottom: .75rem;
     }
 
     .text p {
@@ -55,7 +55,7 @@
     }
 
     .animation {
-        width: 30%;
+        width: 35%;
     }
 
     div.rtl {
@@ -67,11 +67,12 @@
 
         .text {
             width: 90vw;
+            text-align: center;
         }
         
         .animation {
             margin-bottom: 2rem;
-            width: 75% !important;
+            width: 65% !important;
         }
     }
     
@@ -83,7 +84,7 @@
         }
         
         .animation {
-            margin-bottom: 1rem;
+            margin-bottom: 2rem;
             width: 40% !important;
         }
     }
