@@ -8,7 +8,6 @@
 	<meta name="description" content="Hi, I am Marcus, and I am a developer and designer. I do mostly freelance work, but also larger project.">
 
 	<link rel='shortcut icon' type='image/png' href='/favicon.ico'>
-	<link rel='stylesheet' href='/global.css'>
 	<link rel='stylesheet' href='/build/bundle.css'>
 	<style>
 		* {
@@ -21,7 +20,7 @@
 		html {
 			--body: #FFFFFF;
 			--title: #272727;
-			--text: #888888
+			--text: #888888;
 			--muted: #DFDFDF;
 			--shadow: 0 0 8px 4px #27272715;
 			--box: #F3F3F3;
@@ -34,9 +33,19 @@
 		a {text-decoration: none;}
 		a:hover {text-decoration: none;}
 
-		h1, h2, h3, h4, h5, h6 {color: var(--title);}
-		p {color: var(--text);}
+		h1, h2, h3, h4, h5, h6 {
+			color: var(--title);
+			font-weight: 500;
+		}
+		p {
+			color: var(--text);
+			font-size: 1.125rem;
+		}
 		.muted {color: var(--muted);}
+
+		h2 {
+			font-size: 1.75rem;
+		}
 
 		@media (prefers-color-scheme: dark) {
 			html {
@@ -46,6 +55,16 @@
 				--muted: #555555;
 				--shadow: 0 0 8px 4px #DFDFDF25;
 				--box: #333333;
+			}
+		}
+
+		@media only screen and (max-width: 512px){
+			p {
+				font-size: 1rem !important;
+			}
+
+			h2 {
+				font-size: 1.5rem;
 			}
 		}
 	</style>

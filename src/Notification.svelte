@@ -3,7 +3,7 @@
     export let lang:string;
 </script>
 
-<a href="https://twitter.com/marcusfrdk" rel="noreferrer" target="_blank"><div>{translations[lang].notification}</div></a>
+<a href="https://twitter.com/marcusfrdk" rel="noreferrer"><div>{translations[lang].notification}</div></a>
 
 <style>
     div {
@@ -11,7 +11,7 @@
         width: 100vw;
         background-color: var(--blue);
         color: #FFFFFF;
-        position: fixed;
+        position: absolute;
         top: 0;
         left: 0;
         text-align: center;

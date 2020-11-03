@@ -5,14 +5,32 @@
         "h2": "Development in progress.",
         "release": "Available November 31st, 2020.",
         "notification": "Click here for status updates!",
-        "animation": "Creator of the animation"
+        "animation": "Creator of the animation",
+        "introduction": {
+            "title": "A Short Introduction",
+            "titleOne": "A developer",
+            "textOne": "Whether it's programming in C++, Python or Typescript, I love doing it. I have a passion of learning anything that can be written in a CLI or IDE, there's just something so intriguing about that.",
+            "titleTwo": "And a designer",
+            "textTwo": "",
+            "titleThree": "With many interests",
+            "textThree": ""
+        }
     },
     "sv": {
         "title": "Utveckling pågår... | Marcus Fredriksson",
         "description": "Hej, jag heter Marcus, och jag är en utvecklare och designer. För det mesta gör jag frilans-arbete, men även större projekt.",
         "h2": "Håller på att utvecklas.",
         "release": "Tillgänglig den 31 November, 2020.",
-        "notification": "Klicka här för status-uppdateringar!",
-        "animation": "Skaparen av animationen"
+        "notification": "Klicka här för statusuppdateringar!",
+        "animation": "Skaparen av animationen",
+        "introduction": {
+            "title": "En Kort Introduktion",
+            "titleOne": "En utvecklare",
+            "textOne": "",
+            "titleTwo": "Och en designer",
+            "textTwo": "",
+            "titleThree": "Med många intressen",
+            "textThree": ""
+        }
     }
 }
