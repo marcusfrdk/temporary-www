@@ -32,7 +32,7 @@
         display: flex;
         flex-direction: row;
         align-items: center;
-        justify-content: space-between;
+        justify-content: space-evenly;
         padding: 0 5vw;
         margin-bottom: 2rem;
     }
@@ -52,10 +52,13 @@
     .text p {
         font-size: 1.125rem;
         line-height: 1.4rem;
+        max-width: 956px;
     }
 
     .animation {
         width: 35%;
+        max-width: 360px;
+        height: auto;
     }
 
     div.rtl {
