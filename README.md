@@ -12,7 +12,7 @@ $ cd temporary-www
 $ npm install (or) yarn install
 ```
 
-For a prouction build
+For a production build
 ```
 $ npm run build (or) yarn build
 $ npm run start (or) yarn start
