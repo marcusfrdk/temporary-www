@@ -3,7 +3,6 @@
     import { LottiePlayer } from '@lottiefiles/svelte-lottie-player';
     import * as translations from './translations.json';	
     import * as waiting from './waiting.json';
-    import * as scroll from './scroll.json';
 </script>
 
 <div id="landing-wrapper">
@@ -21,19 +20,6 @@
 		/>
 		<h2>{translations[lang].h2}</h2>
 		<p>{translations[lang].release}</p>
-		<div id="scroll">
-			<LottiePlayer
-				src="{scroll}"
-				autoplay="{true}"
-				loop="{true}"
-				controls="{false}"
-				renderer="svg"
-				background="transparent"
-				height="{40}"
-				width="{30}"
-				controlsLayout="playpause"
-			/>
-		</div>
 	</div>
 </div>
 
@@ -58,9 +44,5 @@
 
 	h2 {
         margin: .5rem 0;
-	}
-
-	#scroll {
-		margin-top: 3rem;
 	}
 </style>

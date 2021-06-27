@@ -1,38 +1,14 @@
 {
   "en": {
-    "title": "Currently developing... | Marcus Fredriksson",
-    "description": "Hi, I am Marcus, and I am a developer and designer. I do mostly freelance work, but also larger project.",
+    "title": "Welcome | Marcus Fredriksson",
+    "description": "Development in progress, available soon...",
     "h2": "Development in progress.",
-    "release": "Available soon...",
-    "notification": "Click here for status updates!",
-    "animation": "Link to the original animations",
-    "introduction": {
-      "title": "A Short Introduction",
-      "titleOne": "I'm a developer",
-      "textOne": "Whether it's programming in C++, Python or Typescript, I love doing it. I have a passion of learning anything that can be written in a CLI or IDE, there's just something so intriguing with that.",
-      "titleTwo": "I'm a designer",
-      "textTwo": "I also have a big passion for design, especially UI/UX design and animation. Making sure things are intuitive and good looking for any user, without compromises, is just so satisfying.",
-      "titleThree": "I want to help.",
-      "textThree": "Do you need help with something? Or would you just like to join me in changing the world? I want to help creating the future we all are dreaming of, but I can't do it alone, let's create the future together!"
-    },
-    "contact": "Contact me"
+    "release": "Available soon..."
   },
   "sv": {
-    "title": "Utveckling pågår... | Marcus Fredriksson",
-    "description": "Hej, jag heter Marcus, och jag är en utvecklare och designer. För det mesta gör jag frilans-arbete, men även större projekt.",
+    "title": "Välkommen | Marcus Fredriksson",
+    "description": "Utveckling pågår, tillgänglig snart...",
     "h2": "Håller på att utvecklas.",
-    "release": "Tillgänglig snart...",
-    "notification": "Klicka här för statusuppdateringar!",
-    "animation": "Länk till orginal animationerna",
-    "introduction": {
-      "title": "En Kort Introduktion",
-      "titleOne": "Jag är en utvecklare",
-      "textOne": "Vare sig det är programmering i C++, Python eller Typescript så älskar jag att göra det. Jag har en passion för att lära mig allt som kan skrivas i en CLI eller IDE, det är något som är så fänglande med det.",
-      "titleTwo": "Jag är en designer",
-      "textTwo": "Jag har en stor passion för design, speciellt för UI/UX design och animering. Att se till att saker är intuitiva och ser bra ut för alla användare, utan kompromisser, är så fruktansvärt tillfredställande.",
-      "titleThree": "Jag vill hjälpa till",
-      "textThree": "Behöver du hjälp med något? Eller vill du hjälpa mig att förändra världen? Jag vill skapa framtiden vi alla drömmer om, men jag kan inte göra det ensammen, låt oss göra det tillsammans!"
-    },
-    "contact": "Kontakta mig"
+    "release": "Tillgänglig snart..."
   }
 }
